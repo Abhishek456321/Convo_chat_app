@@ -14,7 +14,7 @@ Others : ( Axios (for HTTP requests), npm )
 
 # Project Structure
 
-<pre> ``` chat-app/ ├── frontend/ # React + TypeScript frontend ├── backend/ # Express backend with Socket.IO ├── .env.example # environment variables template └── README.md ``` </pre>
+<pre>``` chat-app/ ├── frontend/ # React + TypeScript frontend ├── backend/ # Express backend with Socket.IO  ├── .env.example # environment variables template └── README.md ``` </pre>
 
 # Installation & Setup
 
