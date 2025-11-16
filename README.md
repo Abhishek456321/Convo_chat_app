@@ -6,12 +6,12 @@ A simple real-time-chat application where user can send and receive message inst
 Built using frontend "react + typescript" and backend "express + socket.io + typescript"
 
 # Tech stack
-
+```
 Front-End : ( React + Typescript + tailwindcss )
 Backend : (Node js + Express + Typescript)
 Real-time communication : ( Socket.IO )
 Others : ( Axios (for HTTP requests), npm )
-
+```
 # Project Structure
 
 ```
