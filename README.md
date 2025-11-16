@@ -14,11 +14,7 @@ Others : ( Axios (for HTTP requests), npm )
 
 # Project Structure
 
-chat-app/
- frontend/  # React + TypeScript frontend --> inside (.gitignore ignore node_modules and .env)
- backend/  # Express backend with Socket.IO + Typescript
-.env.example 
- README.md
+<pre> ## Project Structure ``` chat-app/ ├── frontend/ # React + TypeScript frontend ├── backend/ # Express backend with Socket.IO  ├── .env.example # environment variables template └── README.md ``` </pre>
 
 # Installation & Setup
 
