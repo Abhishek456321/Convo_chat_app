@@ -15,10 +15,10 @@ Others : ( Axios (for HTTP requests), npm )
 # Project Structure
 
 chat-app/
-├── frontend/ # React + TypeScript frontend --> inside (.gitignore ignore node_modules and .env)
-├── backend/ # Express backend with Socket.IO + Typescript
-├── .env.example
-└── README.md
+ frontend/  # React + TypeScript frontend --> inside (.gitignore ignore node_modules and .env)
+ backend/  # Express backend with Socket.IO + Typescript
+.env.example 
+ README.md
 
 # Installation & Setup
 
