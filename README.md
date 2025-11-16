@@ -14,11 +14,13 @@ Others : ( Axios (for HTTP requests), npm )
 
 # Project Structure
 
-``` chat-app/ 
+```
+chat-app/ 
 ├── frontend/ # React + TypeScript frontend
 ├── backend/ # Express backend with Socket.IO
 ├── .env.example # environment variables template
-└── README.md ```
+└── README.md
+```
 
 # Installation & Setup
 
@@ -34,7 +36,7 @@ Others : ( Axios (for HTTP requests), npm )
 
 ### Frontend Setup
 
-1.navigate to frontend folder --> cd backend/
+1.navigate to frontend folder --> cd frontend/
 
 2.install dependencies ---> npm install
 
